@@ -1,0 +1,14 @@
+delicious.com
+digg.com
+facebook.com
+hackerne.ws
+news.google.com
+news.ycombinator.com
+plus.google.com
+reddit.com
+slashdot.org
+techcrunch.com
+twitter.com
+video.google.com
+wired.com
+youtube.com

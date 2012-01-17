@@ -1,0 +1,32 @@
+127.0.0.1	localhost YOUR_HOSTNAME
+
+# Below lines are for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+
+####################################################################
+## Prove Huxley wrong. Do not fall prey to infinite trivialities. ##
+####################################################################
+
+# With Huxley running, you can temporarily unblock the sites below by
+# prefacing them with a single '#' character. By default, Huxley will
+# reblock these sites after 20 minutes.
+
+0.0.0.0         delicious.com www.delicious.com
+0.0.0.0         digg.com www.digg.com
+0.0.0.0         facebook.com www.facebook.com
+0.0.0.0         hackerne.ws www.hackerne.ws
+0.0.0.0         news.google.com
+0.0.0.0         news.ycombinator.com news.ycombinator.org www.news.ycombinator.net
+0.0.0.0         plus.google.com www.plus.google.com
+0.0.0.0         reddit.com www.reddit.com
+0.0.0.0         slashdot.org www.slashdot.org
+0.0.0.0         techcrunch.com www.techcrunch.com
+0.0.0.0         twitter.com www.twitter.com
+0.0.0.0         video.google.com
+0.0.0.0         wired.com www.wired.com
+0.0.0.0         youtube.com www.youtube.com
